@@ -1,3 +1,1 @@
 # OSSP
-Hello World!
-
